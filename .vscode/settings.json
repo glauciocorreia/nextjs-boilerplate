@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 12,
+
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+
+  "editor.cursorBlinking": "smooth",
+  "workbench.editor.highlightModifiedTabs": true
+}
