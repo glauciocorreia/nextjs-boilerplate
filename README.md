@@ -1,3 +1,13 @@
+## Tools and Tecnologies
+
+### Git
+
+- [commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages
+- [Commitizen](https://github.com/commitizen/cz-cli) - CLI to commit messages with lint configuration to avoid commit rejection
+- Obs.: Click [here](https://annacoding.com/article/4ynYYJEnB733BHEnbrApnX/Add-commitlint-and-commitizen-to-Create-react-app) to know about above tools configuration setup
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
